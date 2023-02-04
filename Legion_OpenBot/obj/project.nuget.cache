@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUim1/07cAhsC4OZCwZZ93WmRxl1hmY0EdwTgxqY2GKE395yAJ4KnTBdYoxOQqJZienXf5zBGF1aG6gaPWBCgw==",
+  "success": true,
+  "projectFilePath": "D:\\GameDEV\\PROJECT\\Git\\Legion_OpenBot\\Legion_OpenBot\\Legion_OpenBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\dsharpplus\\5.0.0-nightly-00009\\dsharpplus.5.0.0-nightly-00009.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\dsharpplus.commandsnext\\5.0.0-nightly-00009\\dsharpplus.commandsnext.5.0.0-nightly-00009.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\dsharpplus.interactivity\\5.0.0-nightly-00009\\dsharpplus.interactivity.5.0.0-nightly-00009.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\emzi0767.common\\2.6.2\\emzi0767.common.2.6.2.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
